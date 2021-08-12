@@ -1,5 +1,5 @@
 {
-  "name": "@gmdev/lerna-starter",
+  "name": "@web-ui-design-system/lerna-starter",
   "version": "0.0.1",
   "description": "@gmdev is my dummy organisation to show scoped packages",
   "scripts": {
