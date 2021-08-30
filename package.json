@@ -1,7 +1,7 @@
 {
   "name": "@web-ui-design-system/lerna-starter",
   "version": "0.0.1",
-  "description": "@gmdev is my dummy organisation to show scoped packages",
+  "description": "@web-ui-design-system is my dummy organisation to show scoped packages",
   "scripts": {
     "storybook": "NODE_ENV=development start-storybook -p 9001",
     "prestart": "npm install && npm run build",
